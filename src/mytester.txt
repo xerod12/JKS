@@ -8,9 +8,17 @@ function dont(){
 }
 
 function bye(){
+<<<<<<< HEAD
 	echo "bye!!!"; // this is useless
 }
 =======
 	echo "hello!!!";
 }
 >>>>>>> parent of 5838890... dev updates
+=======
+	echo "bye!!!";
+=======
+	echo "hello!!!";
+>>>>>>> parent of 5838890... dev updates
+}
+>>>>>>> parent of 2706375... Latest by master
