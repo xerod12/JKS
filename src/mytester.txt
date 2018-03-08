@@ -10,6 +10,7 @@ function dont(){
 function bye(){
 <<<<<<< HEAD
 	echo "bye!!!"; // this is useless
+<<<<<<< HEAD
 }
 =======
 	echo "hello!!!";
@@ -22,3 +23,9 @@ function bye(){
 >>>>>>> parent of 5838890... dev updates
 }
 >>>>>>> parent of 2706375... Latest by master
+=======
+=======
+	echo "hello!!!";
+>>>>>>> parent of 5838890... dev updates
+}
+>>>>>>> parent of 4fdfbb3... my new commit
