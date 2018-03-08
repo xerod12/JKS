@@ -1,5 +1,4 @@
 function hello(){
-<<<<<<< HEAD
 	echo "hello!!!"; // this is a simple testing
 }
 
@@ -10,7 +9,3 @@ function dont(){
 function bye(){
 	echo "bye!!!"; // this is useless
 }
-=======
-	echo "hello!!!";
-}
->>>>>>> parent of 5838890... dev updates
