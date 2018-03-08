@@ -3,9 +3,10 @@ function hello(){
 }
 
 function dont(){
- 	echo "lol"; // this works
+ 	echo "lol"; // this works {YOG}
 }
 
 function bye(){
 	echo "bye!!!"; // this is useless
 }
+
